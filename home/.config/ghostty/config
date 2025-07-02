@@ -1,7 +1,7 @@
 cursor-style = block
 shell-integration-features = no-cursor
 font-family = TX-02
-font-size = 16
+font-size = 18
 term=xterm-256color
 macos-titlebar-style = tabs
 window-width = 100000

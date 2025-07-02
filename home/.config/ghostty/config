@@ -1,11 +1,12 @@
 cursor-style = block
 shell-integration-features = no-cursor
 font-family = TX-02
-font-size = 3
+font-size = 16
 term=xterm-256color
 macos-titlebar-style = tabs
 window-width = 100000
 window-height = 100000
+window-inherit-font-size = false
 theme= tokyonight
 window-padding-x = 10
 window-padding-y = 10
